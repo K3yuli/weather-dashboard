@@ -1,5 +1,5 @@
 # weather-dashboard
-This Project is for users who would like to the weather in multiple cities.  Whether its for work, vacation or just curiosity.  This weather search dashboard can help you with your weather decision making.
+This Project is for users who would like to check the weather conditions in multiple cities.  Whether its for work, taking a vacation or just curiosity.  This weather search dashboard can help you with your travel decision making.
 
 ![E4D21AE4-8321-4300-9B6F-7B0E640A108F](https://user-images.githubusercontent.com/92811892/144901224-45874687-ee75-4373-910e-7abc22b1ca4f.jpeg)
 
@@ -26,3 +26,10 @@ WHEN I click on a city in the search history
 <br>
 THEN I am again presented with current and future conditions for that city
 
+### Created with
+- HTML
+- CSS
+- JS
+
+# Created by:
+Kenia Y.L.G
