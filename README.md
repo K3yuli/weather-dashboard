@@ -31,5 +31,7 @@ THEN I am again presented with current and future conditions for that city
 - CSS
 - JS
 
-# Created by:
-Kenia Y.L.G
+### URL
+Repo URL: https://github.com/K3yuli/weather-dashboard
+<br>
+Deployed URL: https://k3yuli.github.io/weather-dashboard/
