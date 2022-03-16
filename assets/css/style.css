@@ -1,14 +1,19 @@
 body {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    line-height: 1;
-  }
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  line-height: 1;
+}
 
 .jumbotron {
-    font-size: medium;
-    text-align: center;
-    text-shadow: 4px 4px 4px rgba(230, 230, 230, 0.918);
-    background-color: rgb(0, 150, 250);
-    color: whitesmoke;
-    border-radius: 0;
-    border-bottom: 2px solid black;
-  }
+  background-image: url("../images/header.img.jpg");
+  font-size: x-large;
+  text-align: center;
+  text-shadow: 4px 4px 4px rgba(230, 230, 230, 0.918);
+  background-color: rgb(0, 150, 250);
+  color: black;
+  border-radius: 0;
+  border-bottom: 2px solid rgb(61, 128, 216);
+}
+
+#search, #searchedCity, #futureForecast {
+border: solid black;
+}
